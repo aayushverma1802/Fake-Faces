@@ -13,6 +13,5 @@
  Dont run in your PC direclty if you have no GPU or MX series Nvidia 
  nor kernal crash can make OS unstable and can result in funny and unwanted behaviour in Windows 
 
+![4543a5c4-2048-4e34-8a99-20de5ba34edd](https://github.com/user-attachments/assets/e3c675b5-fafe-4b51-af5d-902d31ee5df4)
 
-
-![40b86426-5614-4fb0-a0b1-e3e8ff9d4c24](https://github.com/user-attachments/assets/69bfa281-165a-4cfd-9d53-c29011d224ea)
